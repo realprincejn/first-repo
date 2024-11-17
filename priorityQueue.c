@@ -70,6 +70,7 @@ void main(){
     head = usePriority(head, 2, 1);
     head = usePriority(head, 10, -1);
     head = usePriority(head, 8, 5);
+    head = usePriority(head, 5, 8);
     printlist(head);
     
 }
