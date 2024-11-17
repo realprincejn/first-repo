@@ -49,4 +49,5 @@ int main()
     {
         printf("%d ", input[i]);
     }
+    printf("end");
 }
